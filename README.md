@@ -34,7 +34,14 @@
 #![Alt Image Text](https://github.com/mkback/MechaCar_Statistical_Analysis/blob/main/Images/Lot1_t.test.png)
 ### Lot 2: 
 #![Alt Image Text](https://github.com/mkback/MechaCar_Statistical_Analysis/blob/main/Images/Lot2_t.test.png)
-### Lot 3#: 
+### Lot 3: 
 #![Alt Image Text](https://github.com/mkback/MechaCar_Statistical_Analysis/blob/main/Images/Lot3_t.test.png)
 
 ## Deliverable 4
+### Study Design: MechaCar vs Competition 
+
+#### One thing we can study and compare between MechaCar and it’s competition is the MPG. Miles per gallon is important especially in today’s world where gas prices continue to increase. See below for what we would need to address for this study: 
+##### - We would need numerical and large samples of MPG from MechaCar and the competition. 
+##### - Null: there is no statistical difference between the MechaCar mpg and the competition mpg.
+##### - Alternative: MechaCar has better MPG than the competition.
+##### - The statistical test we can use to describe this is a Two-Sample t-Test. We would us the MechaCar MPG and the competition MPG.
